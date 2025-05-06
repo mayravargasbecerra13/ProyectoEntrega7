@@ -11,12 +11,12 @@
         .form-group { margin-bottom: 15px; }
         .form-group label { display: block; margin-bottom: 5px; font-weight: bold; }
         .form-group input { width: 100%; padding: 8px; box-sizing: border-box; border: 1px solid #ddd; border-radius: 4px; }
-        .btn { padding: 10px 15px; background-color: #4CAF50; color: white; border: none; border-radius: 4px; cursor: pointer; }
-        .btn:hover { background-color: #45a049; }
+        .btn { padding: 10px 15px; background-color: #ee9553; color: white; border: none; border-radius: 4px; cursor: pointer; }
+        .btn:hover { background-color: #4e2b15; }
         .message { padding: 10px; margin: 20px 0; background-color: #d4edda; border: 1px solid #c3e6cb; border-radius: 4px; color: #155724; }
         .menu { margin: 20px 0; }
-        .menu a { color: #4CAF50; text-decoration: none; }
-        .menu a:hover { text-decoration: underline; }
+        .menu a { color: #ee9553; text-decoration: none; }
+        .menu a:hover { text-decoration: underline; color: #4e2b15;}
     </style>
 </head>
 <body>
