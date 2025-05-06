@@ -21,7 +21,7 @@
         padding: 20px;}
         .menu { display: flex; justify-content: center; gap: 20px; margin-bottom: 20px; }
         .menu a { padding: 10px 15px; background-color: #ee9553; color: white; text-decoration: none; border-radius: 4px; }
-        .menu a:hover { background-color: #4d2c1b; }
+        .menu a:hover { background-color: #4e2b15; }
         h2 {text-align: center;
         width: 386px;
         display: block;
